@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonmp4
 - 👀 I’m interested in learning different programing lenguajes and grow as a developer 
-- 🌱 I’m currently learning java and phython 
+- 🌱 I’m currently learning java and python 
 - 📫 How to reach me jasonelmp4@gmail.com
 
 <!---
